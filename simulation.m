@@ -1,3 +1,4 @@
+% Script for running the Monte Carlo simulation and saving the plotted result
 % vector of scaling parameters
 alphas = (1:100)/100;
 % edge probabilities for vertices of different communities in the unscaled connectivity matrix
