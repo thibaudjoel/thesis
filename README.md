@@ -1,0 +1,1 @@
+This repository contains my thesis 'On an error bound for spectral clustering in the stochastic block model', in which error bounds for the spectral clustering algorithm in the setting of a stochastic block model are derived. To demonstrate the results I conducted a Monte Carlo simulation which was implemented in the supplementary code.
